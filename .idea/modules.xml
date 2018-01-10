@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GoogleTest/.idea/modules/GoogleTest_main.iml" filepath="$PROJECT_DIR$/../GoogleTest/.idea/modules/GoogleTest_main.iml" group="GoogleTest" />
+      <module fileurl="file://$PROJECT_DIR$/../GoogleTest/.idea/modules/GoogleTest_test.iml" filepath="$PROJECT_DIR$/../GoogleTest/.idea/modules/GoogleTest_test.iml" group="GoogleTest" />
+    </modules>
+  </component>
+</project>
